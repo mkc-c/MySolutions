@@ -8,6 +8,6 @@ I claim no ownership over the book or any material contained there within. The p
 
 Originally uploaded to old GitHub account Makeshiftdev-c, but was removed for some reason, approximately 5 years ago if not longer. May not include some files, will double check and add later if not.
 
-<img src="Image/book_image.jpg" width="300" height="350">
+<img src="https://m.media-amazon.com/images/I/71YNXYuwPGL._SL1454_.jpg" width="300" height="350">
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
